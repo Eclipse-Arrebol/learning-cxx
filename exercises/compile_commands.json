@@ -1,0 +1,171 @@
+[
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise13/linux/x86_64/release/13_class/main.cpp.o", "13_class/main.cpp"],
+  "file": "13_class/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise08/linux/x86_64/release/08_pointer/main.cpp.o", "08_pointer/main.cpp"],
+  "file": "08_pointer/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise12/linux/x86_64/release/12_method_const/main.cpp.o", "12_method_const/main.cpp"],
+  "file": "12_method_const/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise01/linux/x86_64/release/01_variable&add/main.cpp.o", "01_variable&add/main.cpp"],
+  "file": "01_variable&add/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise22/linux/x86_64/release/22_class_template/main.cpp.o", "22_class_template/main.cpp"],
+  "file": "22_class_template/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise33/linux/x86_64/release/33_std_accumulate/main.cpp.o", "33_std_accumulate/main.cpp"],
+  "file": "33_std_accumulate/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise21/linux/x86_64/release/21_runtime_datatype/main.cpp.o", "21_runtime_datatype/main.cpp"],
+  "file": "21_runtime_datatype/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise09/linux/x86_64/release/09_enum&union/main.cpp.o", "09_enum&union/main.cpp"],
+  "file": "09_enum&union/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise06/linux/x86_64/release/06_array/main.cpp.o", "06_array/main.cpp"],
+  "file": "06_array/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise28/linux/x86_64/release/28_std_string/main.cpp.o", "28_std_string/main.cpp"],
+  "file": "28_std_string/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise23/linux/x86_64/release/23_template_const/main.cpp.o", "23_template_const/main.cpp"],
+  "file": "23_template_const/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise19/linux/x86_64/release/19_class_virtual_destruct/main.cpp.o", "19_class_virtual_destruct/main.cpp"],
+  "file": "19_class_virtual_destruct/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise27/linux/x86_64/release/27_strides/main.cpp.o", "27_strides/main.cpp"],
+  "file": "27_strides/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise26/linux/x86_64/release/26_std_vector_bool/main.cpp.o", "26_std_vector_bool/main.cpp"],
+  "file": "26_std_vector_bool/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise29/linux/x86_64/release/29_std_map/main.cpp.o", "29_std_map/main.cpp"],
+  "file": "29_std_map/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise16/linux/x86_64/release/16_class_move/main.cpp.o", "16_class_move/main.cpp"],
+  "file": "16_class_move/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise20/linux/x86_64/release/20_function_template/main.cpp.o", "20_function_template/main.cpp"],
+  "file": "20_function_template/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise14/linux/x86_64/release/14_class_destruct/main.cpp.o", "14_class_destruct/main.cpp"],
+  "file": "14_class_destruct/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise05/linux/x86_64/release/05_constexpr/main.cpp.o", "05_constexpr/main.cpp"],
+  "file": "05_constexpr/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise15/linux/x86_64/release/15_class_clone/main.cpp.o", "15_class_clone/main.cpp"],
+  "file": "15_class_clone/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise30/linux/x86_64/release/30_std_unique_ptr/main.cpp.o", "30_std_unique_ptr/main.cpp"],
+  "file": "30_std_unique_ptr/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise02/linux/x86_64/release/02_function/main.cpp.o", "02_function/main.cpp"],
+  "file": "02_function/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise07/linux/x86_64/release/07_loop/main.cpp.o", "07_loop/main.cpp"],
+  "file": "07_loop/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise18/linux/x86_64/release/18_class_virtual/main.cpp.o", "18_class_virtual/main.cpp"],
+  "file": "18_class_virtual/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise10/linux/x86_64/release/10_trivial/main.cpp.o", "10_trivial/main.cpp"],
+  "file": "10_trivial/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise03/linux/x86_64/release/03_argument&parameter/main.cpp.o", "03_argument&parameter/main.cpp"],
+  "file": "03_argument&parameter/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise00/linux/x86_64/release/00_hello_world/main.cpp.o", "00_hello_world/main.cpp"],
+  "file": "00_hello_world/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise25/linux/x86_64/release/25_std_vector/main.cpp.o", "25_std_vector/main.cpp"],
+  "file": "25_std_vector/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise24/linux/x86_64/release/24_std_array/main.cpp.o", "24_std_array/main.cpp"],
+  "file": "24_std_array/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise32/linux/x86_64/release/32_std_transform/main.cpp.o", "32_std_transform/main.cpp"],
+  "file": "32_std_transform/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise11/linux/x86_64/release/11_method/main.cpp.o", "11_method/main.cpp"],
+  "file": "11_method/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise17/linux/x86_64/release/17_class_derive/main.cpp.o", "17_class_derive/main.cpp"],
+  "file": "17_class_derive/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise04/linux/x86_64/release/04_static/main.cpp.o", "04_static/main.cpp"],
+  "file": "04_static/main.cpp"
+},
+{
+  "directory": "/home/hp/learning-cxx/exercises",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++17", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-DNDEBUG", "-o", "../build/.objs/exercise31/linux/x86_64/release/31_std_shared_ptr/main.cpp.o", "31_std_shared_ptr/main.cpp"],
+  "file": "31_std_shared_ptr/main.cpp"
+}]
