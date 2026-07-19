@@ -6,10 +6,16 @@ template<class T>
 struct Tensor4D {
     unsigned int shape[4];
     T *data;
+    unsigned int size;
 
     Tensor4D(unsigned int const shape_[4], T const *data_) {
-        unsigned int size = 1;
+        size = 1;
         // TODO: 填入正确的 shape 并计算 size
+        for(int i=0;i<4;i++)
+        {
+            size*=shape_[i];
+            shape[i] = shape_[i];
+        }
         data = new T[size];
         std::memcpy(data, data_, size * sizeof(T));
     }
@@ -28,6 +34,40 @@ struct Tensor4D {
     // 则 `this` 与 `others` 相加时，3 个形状为 `[1, 2, 1, 4]` 的子张量各自与 `others` 对应项相加。
     Tensor4D &operator+=(Tensor4D const &others) {
         // TODO: 实现单向广播的加法
+        for (int dim = 0; dim < 4; ++dim) {
+            ASSERT(
+                others.shape[dim] == 1 ||
+                others.shape[dim] == shape[dim],
+                "Shapes cannot be broadcast."
+            );
+        }
+
+        for (unsigned int index = 0; index < size; ++index) {
+            unsigned int remaining = index;
+            unsigned int coordinates[4];
+
+            // 一维下标转四维坐标
+            for (int dim = 3; dim >= 0; --dim) {
+                coordinates[dim] = remaining % shape[dim];
+                remaining /= shape[dim];
+            }
+
+            // 四维坐标转为 others 中的一维下标
+            unsigned int other_index = 0;
+
+            for (int dim = 0; dim < 4; ++dim) {
+                unsigned int coordinate =
+                    others.shape[dim] == 1
+                        ? 0
+                        : coordinates[dim];
+
+                other_index =
+                    other_index * others.shape[dim] + coordinate;
+            }
+
+            data[index] += others.data[other_index];
+        }
+
         return *this;
     }
 };
